@@ -10,5 +10,7 @@ public class Test {
         System.out.println(i);
         int j = 5;
         System.out.println(j);
+        int k = 5;
+        System.out.println(k);
     }
 }
